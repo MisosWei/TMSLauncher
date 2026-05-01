@@ -22,8 +22,8 @@
 #define IS_DEBUG_MODE true
 #endif
 
-#include "MapleLib.h"
-#pragma comment(lib, "MapleLib.lib")
+#include "MemorySDK.h"
+#pragma comment(lib, "MemorySDK.lib")
 
 #include "HookEx.h"
 #pragma comment(lib, "HookEx.lib")
